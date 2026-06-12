@@ -1,7 +1,7 @@
 # AGENDA DE CONTACTOS
 
 Este proyecto tiene como objetivo desarrollar mis habilidades en programacion con python.
-Mi principal objetivo es aprender y poner en practica lo aprendido en cursos de programacion.
+Mi principal objetivo es aprender y poner en practica lo que voy estudiando.
 
 Esta agenda de contactos debe contar con las siguientes especificaciones:
 
@@ -27,10 +27,10 @@ agenda_contactos/
 ¿Que hace cada archivo?
 
 ## main.py — Es el menú principal, el que el usuario ve:
-# Ejemplo de lo que irá aquí
-# "1. Agregar contacto"
-# "2. Buscar contacto"
-# "3. Salir"
+Ejemplo de lo que irá aquí
+### "1. Agregar contacto"
+### "2. Buscar contacto"
+### "3. Salir"
 
 ## contactos.py — Contiene las funciones de negocio:
 def agregar_contacto(nombre, telefono): ...
@@ -44,9 +44,9 @@ def guardar_contactos(): ...  # Escribe en el .json
 
 ## contactos.json — Así lucirán tus datos guardados:
 
-[
-  {"nombre": "Ana García", "telefono": "3001234567"}
-]
+*[
+  {"nombre": "Anderson Guzman", "telefono": "3001234567"}
+]*
 
 
 
