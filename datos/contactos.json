@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Juan",
+    "telefono": "3148884886",
+    "email": "juan@gmail.com"
+  },
+  {
+    "nombre": "Camilo",
+    "telefono": "3124567734",
+    "email": "camilo@example.com"
+  },
+  {
+    "nombre": "Ana",
+    "telefono": "3124553233",
+    "email": "anaeaxample.com"
+  }
+]
